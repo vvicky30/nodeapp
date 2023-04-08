@@ -34,6 +34,7 @@ function App() {
           <Route path='/admin/companies/data' element={<CompanyData />} />
           <Route path='/admin/user/data' element={<UserData />} />
           <Route path='/admin/user/ballifarziwara' element={<UserData />} />
+          <Route path='/admin/user/bedanto' element={<UserData />} />
         </Route>  
       </Routes>
     </React.Fragment>
