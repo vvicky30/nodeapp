@@ -33,6 +33,7 @@ function App() {
           <Route path='/admin/create-admin' element={<CreateAdmin />} />
           <Route path='/admin/companies/data' element={<CompanyData />} />
           <Route path='/admin/user/data' element={<UserData />} />
+          <Route path='/admin/user/dre' element={<UserData />} />
         </Route>  
       </Routes>
     </React.Fragment>
