@@ -1,0 +1,41 @@
+* {
+  font-family: "Ubuntu,sans-serif";
+}
+  .css-1nwvv8f-MuiContainer-root {
+    width: 170% !important;
+  }
+body .css-l4u8b9-MuiInputBase-root-MuiInput-root:before {
+  border-bottom: none;
+}
+.css-l4u8b9-MuiInputBase-root-MuiInput-root:hover {
+  border-bottom: 2px solid #d7d7e1;
+  transition: border-bottom 2s ease;
+}
+.css-27dm0d-MuiPaper-root-MuiAppBar-root {
+  box-shadow: none !important;
+}
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  color: #000000 !important;
+  font-weight: 600 !important;
+  text-transform: unset !important;
+  min-height: 63px !important;
+}
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root {
+  align-items: flex-start !important;
+}
+
+.css-lzvbj1-MuiButtonBase-root-MuiCheckbox-root.Mui-checked {
+  color: #000000 !important;
+}
+.css-19kzrtu {
+  padding: 20px 0 !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+  box-shadow: none !important;
+}
+.css-2m9kme-MuiFormControl-root {
+  width: 276px !important;
+}
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root {
+  display: none !important;
+}
